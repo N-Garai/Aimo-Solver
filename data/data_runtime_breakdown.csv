@@ -1,0 +1,7 @@
+Stage,Seconds
+Model weight preload,91.75
+vLLM server startup,124.21
+Kernel pool init,2.84
+Local sample problem 1,16.5
+Local sample problem 2,1.6999999999999886
+Local sample problem 3,1.5

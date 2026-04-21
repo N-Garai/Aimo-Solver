@@ -1,0 +1,1 @@
+get log from:--https://www.kaggle.com/code/ngarai/aimo-solver/log
